@@ -38,10 +38,10 @@ const DataEngineeringPresentation = () => {
                 <div>
                   <h3 className="font-bold text-xl text-red-800 mb-3">The Problems</h3>
                   <ul className="space-y-2 text-gray-700 text-sm">
-                    <li>Poor data quality costs enterprises $15M annually (Gartner)</li>
-                    <li>73% of enterprise data goes unused for analytics (Forrester)</li>
-                    <li>Data engineers ranked #3 most in-demand tech role (LinkedIn)</li>
-                    <li>80% time on data prep, 20% on insights (IDC)</li>
+                    <li>Poor data quality costs enterprises $15M annually</li>
+                    <li>73% of enterprise data goes unused for analytics</li>
+                    <li>Data engineers ranked #3 most in-demand tech role</li>
+                    <li>80% time on data prep, 20% on insights</li>
                   </ul>
                 </div>
               </div>
@@ -52,8 +52,8 @@ const DataEngineeringPresentation = () => {
                 <div>
                   <h3 className="font-bold text-xl text-green-800 mb-3">The Opportunity</h3>
                   <ul className="space-y-2 text-gray-700 text-sm">
-                    <li>Market growing at 22% CAGR (MarketsandMarkets)</li>
-                    <li>Enterprises spend $200B+ annually on data infrastructure (IDC)</li>
+                    <li>Market growing at 22% CAGR</li>
+                    <li>Enterprises spend $200B+ annually on data infrastructure</li>
                     <li>Competitors already there: Thoughtworks, Accenture, Deloitte</li>
                     <li>Average data platform project: $500K-$5M (Industry benchmark)</li>
                   </ul>
@@ -67,7 +67,8 @@ const DataEngineeringPresentation = () => {
           </div>
           <div className="bg-gray-100 border border-gray-300 p-3 rounded text-xs text-gray-600">
             <p className="font-semibold mb-1">Sources:</p>
-            <p>Gartner Data Quality Market Guide 2024, Forrester Data Analytics Report 2024, LinkedIn Emerging Jobs Report 2024, IDC Digital Transformation Spending Guide, MarketsandMarkets Data Engineering Market Analysis</p>
+            <p>Multiple sources quoted by LLM: Gartner, Forrester, LinkedIn, IDC, MarketsandMarkets.</p>
+            <p>I didn't get the time to verify and add the exact link to the sources!</p>
           </div>
         </div>
       )
