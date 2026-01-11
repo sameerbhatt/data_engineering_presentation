@@ -1,4 +1,4 @@
-# Data Engineering Center of Excellence - Presentation
+# Introduction to Data Engineering
 
 An interactive presentation designed to introduce data engineering concepts, modern architecture patterns, and business value to software companies looking to establish a data engineering practice.
 

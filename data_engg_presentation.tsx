@@ -18,7 +18,7 @@ const DataEngineeringPresentation = () => {
 
   const slides = [
     {
-      title: "Building a Data Engineering Center of Excellence",
+      title: "Introduction to Data Engineering",
       content: (
         <div className="flex flex-col items-center justify-center h-full space-y-8">
           <Database className="w-32 h-32 text-blue-600" />
