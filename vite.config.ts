@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/data_presentation/', // Replace with your repo name
+  base: '/data_engineering_presentation/', // Replace with your repo name
 })
