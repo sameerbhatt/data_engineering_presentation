@@ -67,7 +67,7 @@ const DataEngineeringPresentation = () => {
           </div>
           <div className="bg-gray-100 border border-gray-300 p-3 rounded text-xs text-gray-600">
             <p className="font-semibold mb-1">Sources:</p>
-            <p>Multiple sources quoted by LLM: Gartner, Forrester, LinkedIn, IDC, MarketsandMarkets.</p>
+            <p>Multiple sources quoted by LLM: Gartner, Forrester, LinkedIn, IDC, MarketsandMarkets, etc..</p>
             <p>I didn't get the time to verify and add the exact link to the sources!</p>
           </div>
         </div>
@@ -136,7 +136,7 @@ const DataEngineeringPresentation = () => {
       )
     },
     {
-      title: "Real-World Example: E-Commerce",
+      title: "Example: E-Commerce",
       content: (
         <div className="space-y-4">
           <div className="bg-gray-50 p-4 rounded border-2 border-gray-300">
@@ -560,7 +560,7 @@ const DataEngineeringPresentation = () => {
           </div>
           
           <div className="bg-yellow-50 border-l-4 border-yellow-400 p-3 mt-4">
-            <p className="text-sm text-gray-800"><span className="font-semibold">Industry Trend (Gartner 2024):</span> Many enterprises are adopting lakehouse architectures to reduce complexity, eliminate data silos, and support both traditional analytics and modern AI workloads on a single platform.</p>
+            <p className="text-sm text-gray-800"><span className="font-semibold">Industry Trend:</span> Many enterprises are adopting lakehouse architectures to reduce complexity, eliminate data silos, and support both traditional analytics and modern AI workloads on a single platform.</p>
           </div>
         </div>
       )
@@ -816,7 +816,7 @@ const DataEngineeringPresentation = () => {
         <div className="space-y-5">
           <div className="bg-gradient-to-r from-purple-50 via-pink-50 to-blue-50 p-5 rounded-lg border-2 border-purple-300">
             <h3 className="text-2xl font-bold text-gray-800 mb-3">The Generative AI Data Imperative</h3>
-            <p className="text-lg text-gray-700">Generative AI has fundamentally changed how enterprises think about data. Quality, governance, and infrastructure are no longer optional—they're competitive necessities.</p>
+            <p className="text-lg text-gray-700">Generative AI has fundamentally changed how enterprises think about data. Quality, governance, and infrastructure are no longer optional, they're competitive necessities.</p>
           </div>
 
           <div className="grid grid-cols-2 gap-5">
@@ -932,7 +932,8 @@ const DataEngineeringPresentation = () => {
 
           <div className="bg-gray-100 border border-gray-300 p-3 rounded text-xs text-gray-600">
             <p className="font-semibold mb-1">Sources:</p>
-            <p>Bloomberg Intelligence Gen AI Market Forecast 2024, Gartner AI Adoption Survey 2024, IDC Data Infrastructure Spending Analysis 2024, McKinsey State of AI Report 2024</p>
+            <p>Multiple sources quoted by LLM: Bloomberg, Gartner, IDC, McKinsey, etc..</p>
+            <p>I didn't get the time to verify and add the exact link to the sources!</p>
           </div>
         </div>
       )
@@ -1065,13 +1066,13 @@ const DataEngineeringPresentation = () => {
           </div>
           <div className="bg-gray-800 text-white p-4 rounded">
             <p className="font-bold mb-2">Modern Data Stack Pattern</p>
-            <p className="text-sm">Fivetran (ingestion) → Snowflake (storage) → dbt (transformation) → Looker (BI) → Airflow (orchestration)</p>
+            <p className="text-sm">Ingestion → Storage → Processing/ Transformation → Orchestration → Intelligence</p>
           </div>
         </div>
       )
     },
     {
-      title: "Customer 360 Platform Example",
+      title: "Example: Customer 360 Platform",
       content: (
         <div className="space-y-4">
           <div className="bg-blue-50 p-4 rounded border-2 border-blue-300">
